@@ -1,1 +1,1 @@
-This is the clone of the  the spotify  music app.
+This project is a replica of the famous Spotify web player website, written in HTML and CSS. The goal is to create a responsive, interactive page that looks and functions like the original. This project will require knowledge of HTML and CSS.
